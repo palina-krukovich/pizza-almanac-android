@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?attr/selectableItemBackground"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <ImageView
+        android:id="@+id/pizzaItemImage"
+        android:layout_width="100dp"
+        android:layout_height="120dp"
+        android:background="#757575"
+        android:scaleType="centerCrop"
+        android:src="@drawable/food_1"
+        tools:ignore="ContentDescription" />
+
+    <TextView
+        android:id="@+id/pizzaItemName"
+        style="@style/AppTheme.Body"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/pizzaItemImage"
+        android:layout_marginBottom="4dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="-2dp"
+        android:layout_toEndOf="@+id/pizzaItemImage"
+        android:ellipsize="end"
+        android:maxLines="1"
+        tools:text="California-style pizza" />
+
+    <me.zhanghai.android.materialratingbar.MaterialRatingBar
+        android:id="@+id/pizzaItemRating"
+        style="@style/Widget.MaterialRatingBar.RatingBar.Indicator.Small"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/pizzaItemName"
+        android:layout_below="@+id/pizzaItemName"
+        android:layout_marginBottom="4dp" />
+
+    <TextView
+        android:id="@+id/pizzaItemOrigin"
+        style="@style/AppTheme.Body"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/pizzaItemRating"
+        android:layout_below="@+id/pizzaItemRating"
+        android:textColor="@color/greySecondary"
+        tools:text="United States" />
+
+    <TextView
+        android:id="@+id/pizzaItemIngredients"
+        style="@style/AppTheme.Body"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/pizzaItemOrigin"
+        android:layout_below="@+id/pizzaItemOrigin"
+        android:ellipsize="end"
+        android:maxLines="2"
+        tools:text="Pizza dough, cheese, tomatoes, ham, pepperoni" />
+
+    <TextView
+        android:id="@+id/pizzaItemDescription"
+        style="@style/AppTheme.Body"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/pizzaItemImage"
+        android:maxLines="2"
+        android:ellipsize="end"
+        android:text="@string/description_random"/>
+
+</RelativeLayout>

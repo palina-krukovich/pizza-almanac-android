@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/settingsDialog"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/settingsButtonBack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        app:srcCompat="@drawable/ic_close_white_24px"
+        android:background="@color/colorPrimary"
+        tools:ignore="ContentDescription" />
+
+    <TextView
+        android:id="@+id/settingsTitle"
+        style="@style/AppTheme.Headline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_gravity="center"
+        android:text="@string/settings" />
+
+    <GridLayout
+        android:id="@+id/colorGrid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="16dp"
+        android:padding="5dp"
+        android:background="#22000000">
+
+        <ImageView
+            android:id="@+id/red"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_margin="5dp"
+            android:background="@color/colorBackgroundRed"
+            tools:ignore="ContentDescription" />
+
+        <ImageView
+            android:id="@+id/purple"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_margin="5dp"
+            android:background="@color/colorBackgroundPurple"
+            tools:ignore="ContentDescription" />
+
+        <ImageView
+            android:id="@+id/blue"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_margin="5dp"
+            android:background="@color/colorBackgroundBlue"
+            tools:ignore="ContentDescription" />
+
+        <ImageView
+            android:id="@+id/green"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_margin="5dp"
+            android:background="@color/colorBackgroundGreen"
+            tools:ignore="ContentDescription" />
+
+        <ImageView
+            android:id="@+id/yellow"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_margin="5dp"
+            android:background="@color/colorBackgroundYellow"
+            tools:ignore="ContentDescription" />
+
+        <ImageView
+            android:id="@+id/orange"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_margin="5dp"
+            android:background="@color/colorBackgroundOrange"
+            tools:ignore="ContentDescription" />
+
+        <ImageView
+            android:id="@+id/grey"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_margin="5dp"
+            android:background="@color/colorBackgroundGrey"
+            tools:ignore="ContentDescription" />
+
+    </GridLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp">
+
+        <Spinner
+            android:id="@+id/spinnerFontSize"
+            style="@style/AppTheme.FilterSpinner"
+            android:entries="@array/font_size_array" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp">
+
+        <Spinner
+            android:id="@+id/spinnerFontFamily"
+            style="@style/AppTheme.FilterSpinner"
+            android:entries="@array/font_family_array" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp">
+
+        <TextView
+            android:id="@+id/exampleText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/description_random"/>
+    </RelativeLayout>
+
+</LinearLayout>

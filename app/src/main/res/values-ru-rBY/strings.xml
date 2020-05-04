@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pizza Almanac</string>
+    <string name="name">Название</string>
+    <string name="origin">Страна</string>
+    <string name="any_origin">Любая страна</string>
+    <string name="ingredients">Ингредиенты</string>
+    <string name="description">Описание</string>
+    <string name="all_pizzas">Все пиццы</string>
+    <string name="sort_by">Сортировать по</string>
+    <string name="sort_by_rating">Сортивать по рейтингу</string>
+    <string name="sort_by_name">Сортировать по названию</string>
+    <string name="sorted_by_rating">Отсортированы по рейтингу</string>
+    <string name="sorted_by_name">Отсортированы по названию</string>
+    <string name="filter">Фильтр</string>
+    <string name="search">Поиск</string>
+    <string name="apply">Применить</string>
+    <string name="cancel">Отмена</string>
+    <string name="message_no_results">Упс, не удалось найти результаты\nсоответствующие вашему запросу</string>
+    <string name="submit">Подтвердить</string>
+    <string name="add_random_items">Добавить случайные пиццы</string>
+    <string name="sign_out">Выйти</string>
+    <string name="add_new_pizza">Добавить новую пиццу</string>
+    <string name="upload_picture">Загрузить картинку</string>
+    <string name="settings">Настройки</string>
+    <string name="font_size">Размер шрифта</string>
+    <string name="small_text">Маленький шрифт</string>
+    <string name="medium_text">Средний шрифт</string>
+    <string name="large_text">Большой шрифт</string>
+
+    <string name="sign_in_error">Ошибка входа</string>
+    <string name="no_network_connection">Нет соединения с Интернетом</string>
+    <string name="unknown_error">Неизвестная ошибка</string>
+    <string name="retry">Попробовать снова</string>
+    <string name="exit">Завершить</string>
+
+    <string-array name="origins">
+        <item>@string/any_origin</item>
+        <item>Аргентина</item>
+        <item>Австралия</item>
+        <item>Бразилия</item>
+        <item>Канада</item>
+        <item>Китай</item>
+        <item>Колумбия</item>
+        <item>Франция</item>
+        <item>Ирландия</item>
+        <item>Индия</item>
+        <item>Индонезия</item>
+        <item>Иран</item>
+        <item>Израиль</item>
+        <item>Италия</item>
+        <item>Япония</item>
+        <item>Корея</item>
+        <item>Малайзия</item>
+        <item>Мальта</item>
+        <item>Мексика</item>
+        <item>Непал</item>
+        <item>Новая Зеландия</item>
+        <item>Норвегия</item>
+        <item>Пакистан</item>
+        <item>Россия</item>
+        <item>Швеция</item>
+        <item>Тайланд</item>
+        <item>Турция</item>
+        <item>Англия</item>
+        <item>Америка</item>
+    </string-array>
+
+    <string-array name="ingredients_random">
+        <item>Mоцарелла</item>
+        <item>Помидоры</item>
+        <item>Пепперони</item>
+        <item>Ветчина</item>
+        <item>Голубой сыр</item>
+        <item>Томатный соус</item>
+        <item>Чесночный соус</item>
+        <item>Ананасы</item>
+        <item>Пармезан</item>
+        <item>Креветки</item>
+        <item>Базилик</item>
+        <item>Травы</item>
+    </string-array>
+
+
+    <string name="description_random">
+        Пицца - это пикантное блюдо итальянского происхождения, состоящее из обычно круглой,
+        сплющенной основы теста на основе закваски из пшеницы, покрытого помидорами, сыром и часто
+        различными другими ингредиентами (анчоусы, мясо и т. Д.), Выпекаемых при высокой
+        температуре, традиционно в печь на дровах. Небольшую пиццу иногда называют пиццеттой.
+    </string>
+
+</resources>
