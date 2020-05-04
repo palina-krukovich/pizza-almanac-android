@@ -9,7 +9,7 @@
 ### Appearance
 
 * Pizza list screen
-![List image](https://github.com/polina-krukovich/pizza-almanac-android/blob/master/screenshots/list.png=180x300)
+<img src="https://github.com/polina-krukovich/pizza-almanac-android/blob/master/screenshots/list.png" width="180" height="300"/>
 * Pizza detail screen
 ![Detail image](https://github.com/polina-krukovich/pizza-almanac-android/blob/master/screenshots/detail.png)
 * Filters dialog
