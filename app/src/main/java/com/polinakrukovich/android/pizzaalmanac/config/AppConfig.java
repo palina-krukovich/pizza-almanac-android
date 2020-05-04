@@ -1,12 +1,6 @@
 package com.polinakrukovich.android.pizzaalmanac.config;
 
-import android.app.Activity;
-import android.app.Application;
 import android.content.SharedPreferences;
-
-import androidx.appcompat.app.AppCompatActivity;
-
-import com.polinakrukovich.android.pizzaalmanac.MainActivity;
 import com.polinakrukovich.android.pizzaalmanac.R;
 import com.polinakrukovich.android.pizzaalmanac.observer.SettingsObserver;
 
