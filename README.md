@@ -9,16 +9,16 @@
 ### Appearance
 
 * Pizza list screen
-![List image](https://github.com/polina-krukovich/pizza-almanac-android/blob/master/images/list.png)
+![List image](https://github.com/polina-krukovich/pizza-almanac-android/blob/master/screenshots/list.png)
 * Pizza detail screen
-![Detail image](https://github.com/polina-krukovich/pizza-almanac-android/blob/master/images/detail.png)
+![Detail image](https://github.com/polina-krukovich/pizza-almanac-android/blob/master/screenshots/detail.png)
 * Filters dialog
-![Filter image](https://github.com/polina-krukovich/pizza-almanac-android/blob/master/images/filter.png)
+![Filter image](https://github.com/polina-krukovich/pizza-almanac-android/blob/master/screenshots/filter.png)
 * Settings dialog
-![Settings image](https://github.com/polina-krukovich/pizza-almanac-android/blob/master/images/settings.png)
+![Settings image](https://github.com/polina-krukovich/pizza-almanac-android/blob/master/screenshots/settings.png)
 * New pizza dialog
-![New Pizza image](https://github.com/polina-krukovich/pizza-almanac-android/blob/master/images/addnew.png)
+![New Pizza image](https://github.com/polina-krukovich/pizza-almanac-android/blob/master/screenshots/addnew.png)
 * Russian localization
-![Russian lang image](https://github.com/polina-krukovich/pizza-almanac-android/blob/master/images/rulang.png)
+![Russian lang image](https://github.com/polina-krukovich/pizza-almanac-android/blob/master/screenshots/rulang.png)
 * New settings applied 
-![Detail image](https://github.com/polina-krukovich/pizza-almanac-android/blob/master/images/newsettings.png)
+![Detail image](https://github.com/polina-krukovich/pizza-almanac-android/blob/master/screenshots/newsettings.png)
