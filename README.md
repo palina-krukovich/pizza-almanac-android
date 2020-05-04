@@ -11,14 +11,14 @@
 * Pizza list screen
 <img src="https://github.com/polina-krukovich/pizza-almanac-android/blob/master/screenshots/list.png" width="180" height="300"/>
 * Pizza detail screen
-![Detail image](https://github.com/polina-krukovich/pizza-almanac-android/blob/master/screenshots/detail.png)
+<img src="https://github.com/polina-krukovich/pizza-almanac-android/blob/master/screenshots/detail.png" width="180" height="300" />
 * Filters dialog
-![Filter image](https://github.com/polina-krukovich/pizza-almanac-android/blob/master/screenshots/filter.png)
+<img src="https://github.com/polina-krukovich/pizza-almanac-android/blob/master/screenshots/filter.png" width="180" height="300" />
 * Settings dialog
-![Settings image](https://github.com/polina-krukovich/pizza-almanac-android/blob/master/screenshots/settings.png)
+<img src="https://github.com/polina-krukovich/pizza-almanac-android/blob/master/screenshots/settings.png" width="180" height="300" />
 * New pizza dialog
-![New Pizza image](https://github.com/polina-krukovich/pizza-almanac-android/blob/master/screenshots/addnew.png)
+<img src="https://github.com/polina-krukovich/pizza-almanac-android/blob/master/screenshots/addnew.png" width="180" height="300" />
 * Russian localization
-![Russian lang image](https://github.com/polina-krukovich/pizza-almanac-android/blob/master/screenshots/rulang.png)
+<img src="https://github.com/polina-krukovich/pizza-almanac-android/blob/master/screenshots/rulang.png" width="180" height="300" />
 * New settings applied 
-![Detail image](https://github.com/polina-krukovich/pizza-almanac-android/blob/master/screenshots/newsettings.png)
+<img src="https://github.com/polina-krukovich/pizza-almanac-android/blob/master/screenshots/newsettings.png" width="180" height="300" />
