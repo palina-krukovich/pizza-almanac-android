@@ -22,13 +22,13 @@
 
 | Pizza list screen | Pizza detail screen | Filters dialog |
 | --- | --- | --- |
-| <img src="https://github.com/polina-krukovich/pizza-almanac-android/blob/master/screenshots/list.png" width="180" height="300"/> | <img src="https://github.com/polina-krukovich/pizza-almanac-android/blob/master/screenshots/detail.png" width="180" height="300" /> | <img src="https://github.com/polina-krukovich/pizza-almanac-android/blob/master/screenshots/filter.png" width="180" height="300" /> |
+| <img src="https://github.com/palina-krukovich/pizza-almanac-android/blob/master/screenshots/list.png" width="180" height="300"/> | <img src="https://github.com/palina-krukovich/pizza-almanac-android/blob/master/screenshots/detail.png" width="180" height="300" /> | <img src="https://github.com/palina-krukovich/pizza-almanac-android/blob/master/screenshots/filter.png" width="180" height="300" /> |
 
 
 | Settings dialog | New pizza dialog | Russian localization |
 | --- | --- | --- |
-| <img src="https://github.com/polina-krukovich/pizza-almanac-android/blob/master/screenshots/settings.png" width="180" height="300" /> | <img src="https://github.com/polina-krukovich/pizza-almanac-android/blob/master/screenshots/addnew.png" width="180" height="300" /> | <img src="https://github.com/polina-krukovich/pizza-almanac-android/blob/master/screenshots/rulang.png" width="180" height="300" /> |
+| <img src="https://github.com/palina-krukovich/pizza-almanac-android/blob/master/screenshots/settings.png" width="180" height="300" /> | <img src="https://github.com/palina-krukovich/pizza-almanac-android/blob/master/screenshots/addnew.png" width="180" height="300" /> | <img src="https://github.com/palina-krukovich/pizza-almanac-android/blob/master/screenshots/rulang.png" width="180" height="300" /> |
  
 | New settings applied|
 | --- |
-| <img src="https://github.com/polina-krukovich/pizza-almanac-android/blob/master/screenshots/newsettings.png" width="180" height="300" /> |
+| <img src="https://github.com/palina-krukovich/pizza-almanac-android/blob/master/screenshots/newsettings.png" width="180" height="300" /> |
